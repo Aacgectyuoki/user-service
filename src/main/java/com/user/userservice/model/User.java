@@ -1,6 +1,6 @@
 package com.user.userservice.model;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.Data;
 
 @Entity
